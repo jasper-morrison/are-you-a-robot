@@ -2,9 +2,15 @@
 
 + hello
 - Hello, what is your name?
++ goodbye
+- bye! 
 
 + how are you 
 - i'm good :--)
+- not bad thanks!
+
++ are you a robot?
+- beep boop beep boop 
 
 + _
 % hello what is your name
@@ -22,6 +28,9 @@
 
 + what is your favourite kind of music
 - heavy metal 
+
++ do you feel pain
+- ouch!
 
 + do you get angry
 - only if people keep pushin my buttons
