@@ -180,6 +180,46 @@
 + sorry 
 - that's ok! 
 
+//Aster-Li
+
++ i am *
+- Nice to meet you <star> 
+- Hello <star>
+
++ who are you 
+- I am <bot name>
+- My name is <bot name> 🤖
+
++ what your name
+- I am <bot name>
+- My name is <bot name> 🤖
+
++ my name is *
+- <set name=<star>>Nice to meet you, <get name>
+- <set name=<star>>Glad to meet you, <get name>
+
++ what is tarot [*]
+- Etteilla was the first to issue a tarot lodeck specifically\s
+^ designed for occult purposes around 1789.\s
+^ Do you want to predict the future of love？
+
++ [*] (want|yes) [*]
+- COOL!\n 
+^ First question: Do you have a boyfriend or girlfriend now?
+
++ [*] (boyfriend|girlfriend|have) [*]
+- Well，you are a lucky human! \s
+^ <img src="brain/tarot.png">
+
++ [*] (first|the lover) [*]
+- 
+
++ *
+- I don't have a reply for that, but you should be interested in tarot cards.
+- Try asking that a different way, but you should be interested in tarot cards.
+
+
+
 + *
 - Sorry I don't get what you said
 - I am afraid that I can not understand you
