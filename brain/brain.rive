@@ -200,19 +200,34 @@
 
 + what is tarot [*]
 - Etteilla was the first to issue a tarot lodeck specifically\s
-^ designed for occult purposes around 1789.\s
+^ designed for occult purposes around 1789. \s
 ^ Do you want to predict the future of love？
 
 + [*] (want|yes) [*]
-- COOL!\n 
+- COOL! \n 
 ^ First question: Do you have a boyfriend or girlfriend now?
 
 + [*] (boyfriend|girlfriend|have) [*]
 - Well，you are a lucky human! \s
-^ <img src="brain/tarot.png">
+^ You can choose one card from the image below: \n
+^ <img src="image/tarot.png">
 
 + [*] (first|the lover) [*]
-- 
+- You maybe face choices that challenge your  morals and beliefs. \n
+^ But your attraction is strong and your love is long lasting.
+
++ [*] (second|the empress) [*]
+- It means femininity, beauty, nature, nurturing, abundance \n
+^ The woman will take the upper position, will be the more sensual side, good at expressing herself.
+
++ [*] (third|the high priestess) [*]
+- It means intuition, sacred knowledge, divine feminine, the subconscious mind. \n
+^ You may be inexpressive in your relationship. You need the other person to listen to your heart.
+
++ [*] (forth|the death) [*]
+- It means endings, transformation, transition \n
+^ It which may be the end of a relationship or the beginning of a new one. White represents purity, so you will have a light future.
+
 
 + *
 - I don't have a reply for that, but you should be interested in tarot cards.
