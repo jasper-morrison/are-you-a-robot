@@ -53,7 +53,7 @@
 ^ so first of all, what would you like to know?\n
 ^ choose from: general life, love, career or health?
 
-+ fortune 
++ *fortune* 
 - yes let's get started!\n
 ^ so first of all, what would you like to know?\n
 ^ choose from: general life, love, career or health?
@@ -70,14 +70,14 @@
 
 + general life
 - predictable answer, but sure \n
-^ to get an accurate result, i need you to say "i'm boring for choosing general life"
+^ to get an accurate result, i need you to say "i am a basic bitch"
 
-+ im boring for choosing general life
-- fortune: your life IS boring! and you know that! so sort it out!
++ i am a basic bitch
+- fortune: your life IS boring! and you know that! so sort it out! 
 - fortune: ehh you're ok, you should try harder though
-- fortune: good job everything in ur life is great 
-- fortune: 10 out of 10, could'nt rate you better ;--)
-- fortune: if i were you, i'd keep an eye out for
+- fortune: good job, everything in your life is great
+- fortune: 10 out of 10, couldn't rate you better ;--)
+- fortune: if i were you, i'd sleep with an eye open
 
 + love
 - gross, but ok \n
@@ -96,7 +96,7 @@
 
 + job spelled backwards is boj
 - fortune: you're failing in your career
-- you should have sex with your manager
+- fortune: you should have sex with your manager
 - fortune: do what you love not what you hate!
 - fortune: keep going! great things are ahead
 - fortune: if you're trying best, that's the most anyone can ask you for
